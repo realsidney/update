@@ -7,7 +7,7 @@
             <pubDate>Fri, 19 Jun 2020 11:21:23 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/realsidney/update/raw/master/SparkleDemo.zip"
+                url="https://github.com/realsidney/update/blob/master/SparkleDemo.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="1.0"
                 length="1762540"
