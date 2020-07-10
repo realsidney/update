@@ -10,8 +10,9 @@
                 url="https://raw.githubusercontent.com/realsidney/update/master/SparkleDemo.zip" 
                 sparkle:version="1.1" 
                 sparkle:shortVersionString="1.1" 
+                length="1768596"
                 type="application/octet-stream" 
-                sparkle:edSignature="gv8dtWR3i6I9LKzzvIX07dFhpQHpBFyzzZEj7JOVHkaqWxsqqXfXWZN6h7W4aYH11Zng6+cdBk/Nrw5L7DCcAA==" length="1768596"
+                sparkle:edSignature="gv8dtWR3i6I9LKzzvIX07dFhpQHpBFyzzZEj7JOVHkaqWxsqqXfXWZN6h7W4aYH11Zng6+cdBk/Nrw5L7DCcAA=="
             />
         </item>
     </channel>
