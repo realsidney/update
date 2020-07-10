@@ -6,7 +6,7 @@
             <title>1.1</title>
             <pubDate>Fri, 19 Jun 2020 17:23:20 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/realsidney/update/blob/master/SparkleDemo.zip?raw=true" sparkle:version="1" sparkle:shortVersionString="1.1" type="application/octet-stream" edSignature="TyL6uXpyau+wav0pfXeMuQnl1E1ddF0kBkXixfrUV2EDaaAEnPq9mtCE40L019ZVPem2WtoVo3sUa8tdPIgOCQ==" length="1764544"/>
+            <enclosure url="https://raw.githubusercontent.com/realsidney/update/master/SparkleDemo.zip" sparkle:version="1" sparkle:shortVersionString="1.1" type="application/octet-stream" edSignature="TyL6uXpyau+wav0pfXeMuQnl1E1ddF0kBkXixfrUV2EDaaAEnPq9mtCE40L019ZVPem2WtoVo3sUa8tdPIgOCQ==" length="1764544"/>
         </item>
     </channel>
 </rss>
