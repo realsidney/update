@@ -8,7 +8,7 @@
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure 
                 url="https://raw.githubusercontent.com/realsidney/update/master/SparkleDemo.zip" 
-                sparkle:version="1" 
+                sparkle:version="2" 
                 sparkle:shortVersionString="1.1" 
                 length="1768596"
                 type="application/octet-stream" 
