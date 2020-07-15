@@ -3,7 +3,7 @@
     <channel>
         <title>SparkleDemo</title>
         <item>
-            <title>1.2</title>
+            <title>1.1</title>
             <pubDate>Fri, 19 Jun 2020 17:23:20 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure 
