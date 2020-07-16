@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HuionTablet</title>
+        <item>
+            <title>15.0.0</title>
+            <pubDate>周四, 16 7月 2020 15:43:29 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/realsidney/update/master/HuionTablet.zip"
+                sparkle:version="60"
+                sparkle:shortVersionString="15.0.0"
+                length="5016595" type="application/octet-stream"
+                sparkle:edSignature="d2qS/G/CTdGEk1seJM/pYlNvQWS83PxIE7tkGgsg/Ym17D0hLsHEQk+dcYgi6lCHGp33fIPOPEd/Tnah1Os+Bw=="
+            />
+        </item>
+    </channel>
+</rss>
