@@ -8,7 +8,7 @@
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://raw.githubusercontent.com/realsidney/update/master/HuionTablet.zip"
-                sparkle:version="2"
+                sparkle:version="50"
                 sparkle:shortVersionString="15.3.0.201104"
                 length="5016595" type="application/octet-stream"
                 sparkle:edSignature="d2qS/G/CTdGEk1seJM/pYlNvQWS83PxIE7tkGgsg/Ym17D0hLsHEQk+dcYgi6lCHGp33fIPOPEd/Tnah1Os+Bw=="
