@@ -3,15 +3,15 @@
     <channel>
         <title>HuionTablet</title>
         <item>
-            <title>15.3.0.201104</title>
+            <title>16.2.0</title>
             <pubDate>周四, 16 7月 2020 15:43:29 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://raw.githubusercontent.com/realsidney/update/master/HuionTablet.zip"
-                sparkle:version="50"
-                sparkle:shortVersionString="15.3.0.201104"
-                length="5016595" type="application/octet-stream"
-                sparkle:edSignature="d2qS/G/CTdGEk1seJM/pYlNvQWS83PxIE7tkGgsg/Ym17D0hLsHEQk+dcYgi6lCHGp33fIPOPEd/Tnah1Os+Bw=="
+                sparkle:version="1203"
+                sparkle:shortVersionString="16.2.0.221104"
+                length="6077736" type="application/octet-stream"
+                sparkle:edSignature="dqcv5Ew77aw4yNGscyle/viRogTehbIAxPepz72oYWM0awARdhdHmliiapNsnCQHbQP+tyorD/SMpQm9DCnFBA=="
             />
         </item>
     </channel>
